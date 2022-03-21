@@ -33,4 +33,4 @@ def page_skills(skill):
     return representation
 
 
-app.run(debug=True)
+app.run()
